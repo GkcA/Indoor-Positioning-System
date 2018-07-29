@@ -1,4 +1,4 @@
-# Indoor_Positioning_System
+# Indoor Positioning System
 
 _EVARILOS(http://www.evarilos.eu/index.php) dataset was used to estimate indoor position. Application provides user interface for choosing machine learning algorithms, preprocessing steps and visualizing results of estimation. Required Data stored in MongoDB_<br />
 
